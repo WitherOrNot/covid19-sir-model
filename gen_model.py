@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.integrate import solve_ivp
-from scipy.optimize import minimize, basinhopping
+from scipy.optimize import minimize
 import random
 
 N = 329500000
